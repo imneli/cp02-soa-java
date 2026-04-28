@@ -5,6 +5,8 @@
 
 ---
 
+<img src="gorila-gordo.png" />
+
 ## Descrição
 
 API REST para gerenciamento de salas de reunião e reservas, construída com Spring Boot seguindo arquitetura SOA (Service-Oriented Architecture) com separação em camadas (Controller → Service → Repository).
